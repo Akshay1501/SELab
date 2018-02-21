@@ -7,6 +7,7 @@ Exercise is the miracle cure we have all been waiting for. It is free, easy to s
 
 #Dependencies
 1. Android studio(IDE java)
-2. Google sensor api
-3. Google fit api
-4. Edamam Nutrition api
+2. Google sensor API
+3. Google fit API
+4. Edamam Nutrition API
+5. Spoonacular API
